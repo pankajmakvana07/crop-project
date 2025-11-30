@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Documentation
+*.md
+!README.md
+
+# Test files
+test/
+tests/
+*_test.py
+test_*.py
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Railway specific
+.railway/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Model training outputs (keep only essential models)
+model/plots/
+model/example_*.json
+model/test_*.py
+model/check_and_fix_dataset.py
+model/clean_dataset.py
+
+# Batch files (not needed in container)
+*.bat
+
+# Large datasets (will be loaded from environment or external source)
+# Uncomment if dataset is too large
+# model/gujarat_full_crop_dataset.csv
