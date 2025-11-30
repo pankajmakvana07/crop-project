@@ -1,0 +1,65 @@
+{
+  "taluka": "Gadhada",
+  "model": "normal",
+  "top_k": [
+    {
+      "crop": "Mustard",
+      "suitability_prob": 0.37,
+      "predicted_yield_quintal_per_ha": 18.0,
+      "treatment": {
+        "pestManagement": "IPM for aphids, sawfly, and white rust",
+        "recommendedIrrigation": "3-4 irrigations at critical stages",
+        "recommendedFertilizers": [
+          "Urea (46-0-0)",
+          "DAP (18-46-0)",
+          "MOP (0-0-60)",
+          "Sulphur"
+        ],
+        "recommendedPesticides": [
+          "Dimethoate",
+          "Oxydemeton-methyl",
+          "Mancozeb"
+        ]
+      },
+      "rule_reason": "MODERATE: pH 6.4 is generally suitable for most crops",
+      "prob": 72.48,
+      "suitability": "Yes"
+    },
+    {
+      "crop": "Cumin",
+      "suitability_prob": 0.37,
+      "predicted_yield_quintal_per_ha": 8.0,
+      "treatment": {
+        "pestManagement": "IPM for aphids, powdery mildew, and blight",
+        "recommendedIrrigation": "4-5 light irrigations",
+        "recommendedFertilizers": [
+          "Urea (46-0-0)",
+          "DAP (18-46-0)",
+          "MOP (0-0-60)"
+        ],
+        "recommendedPesticides": [
+          "Dimethoate",
+          "Sulphur",
+          "Mancozeb"
+        ]
+      },
+      "rule_reason": "MODERATE: pH 6.4 is generally suitable for most crops",
+      "prob": 27.52,
+      "suitability": "Yes"
+    }
+  ],
+  "model_summary": {
+    "multi_class_model": {
+      "type": "XGBoost",
+      "validation_accuracy": 0.83
+    },
+    "suitability_model": {
+      "type": "RandomForest",
+      "roc_auc": 0.92
+    },
+    "yield_model": {
+      "type": "XGBoostRegressor",
+      "rmse": 11.52
+    }
+  }
+}

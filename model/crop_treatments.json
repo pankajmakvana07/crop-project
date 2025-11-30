@@ -1,0 +1,308 @@
+{
+  "Rice": {
+    "pestManagement": "Integrated Pest Management (IPM) for stem borers and leaf folders",
+    "recommendedIrrigation": "Flooded irrigation, maintain 5cm water depth",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Zinc Sulphate"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole",
+      "Cartap Hydrochloride",
+      "Fipronil"
+    ]
+  },
+  "Wheat": {
+    "pestManagement": "IPM for aphids and rust diseases",
+    "recommendedIrrigation": "Critical stages - CRI, Tillering, Flowering, Grain filling (4-5 irrigations)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Imidacloprid",
+      "Mancozeb",
+      "Propiconazole"
+    ]
+  },
+  "Cotton": {
+    "pestManagement": "IPM for bollworms, whitefly, and pink bollworm",
+    "recommendedIrrigation": "Critical stages - Flowering and Boll development (8-10 irrigations)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)",
+      "Boron"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole (Coragen)",
+      "Acephate",
+      "Profenofos",
+      "Monocrotophos"
+    ]
+  },
+  "Bajra": {
+    "pestManagement": "IPM for shoot fly and downy mildew",
+    "recommendedIrrigation": "2-3 irrigations at critical stages (low water requirement)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Metalaxyl",
+      "Carbendazim",
+      "Chlorpyrifos"
+    ]
+  },
+  "Groundnut": {
+    "pestManagement": "IPM for leaf miner, thrips, and tikka disease",
+    "recommendedIrrigation": "4-6 irrigations - Flowering and Pod development stages",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Gypsum",
+      "Sulphur"
+    ],
+    "recommendedPesticides": [
+      "Chlorpyrifos",
+      "Mancozeb",
+      "Tebuconazole"
+    ]
+  },
+  "Maize": {
+    "pestManagement": "IPM for stem borers, fall armyworm, and aphids",
+    "recommendedIrrigation": "Critical stages - Tasseling, Silking, Grain filling (4-5 irrigations)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Zinc Sulphate"
+    ],
+    "recommendedPesticides": [
+      "Emamectin Benzoate",
+      "Chlorantraniliprole",
+      "Imidacloprid"
+    ]
+  },
+  "Jowar": {
+    "pestManagement": "IPM for shoot fly, stem borer, and grain mold",
+    "recommendedIrrigation": "2-3 irrigations at critical stages (drought tolerant)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Carbofuran",
+      "Chlorpyrifos",
+      "Mancozeb"
+    ]
+  },
+  "Castor": {
+    "pestManagement": "IPM for semilooper, capsule borer, and whitefly",
+    "recommendedIrrigation": "4-5 irrigations at Flowering and Capsule formation",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Quinalphos",
+      "Profenofos",
+      "Spinosad"
+    ]
+  },
+  "Tur (Pigeon Pea)": {
+    "pestManagement": "IPM for pod borer, pod fly, and wilt disease",
+    "recommendedIrrigation": "2-3 irrigations (drought tolerant, rainfed crop)",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture"
+    ],
+    "recommendedPesticides": [
+      "Indoxacarb",
+      "Chlorantraniliprole",
+      "Carbendazim"
+    ]
+  },
+  "Moong (Green Gram)": {
+    "pestManagement": "IPM for whitefly, thrips, and yellow mosaic virus",
+    "recommendedIrrigation": "2-3 light irrigations at Flowering and Pod filling",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture"
+    ],
+    "recommendedPesticides": [
+      "Imidacloprid",
+      "Dimethoate",
+      "Triazophos"
+    ]
+  },
+  "Urad (Black Gram)": {
+    "pestManagement": "IPM for whitefly, pod borer, and yellow mosaic virus",
+    "recommendedIrrigation": "2-3 light irrigations at critical stages",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture"
+    ],
+    "recommendedPesticides": [
+      "Imidacloprid",
+      "Chlorantraniliprole",
+      "Triazophos"
+    ]
+  },
+  "Sesame": {
+    "pestManagement": "IPM for leaf webber, capsule borer, and phyllody disease",
+    "recommendedIrrigation": "3-4 irrigations at Flowering and Capsule formation",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Quinalphos",
+      "Chlorpyrifos",
+      "Oxytetracycline"
+    ]
+  },
+  "Sugarcane": {
+    "pestManagement": "IPM for borers, whitefly, and red rot disease",
+    "recommendedIrrigation": "Heavy water requirement - 15-20 irrigations throughout season",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)",
+      "Zinc Sulphate"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole",
+      "Carbofuran",
+      "Trichoderma"
+    ]
+  },
+  "Potato": {
+    "pestManagement": "IPM for late blight, aphids, and tuber moth",
+    "recommendedIrrigation": "Light frequent irrigations - 8-10 irrigations",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "0-0-50 (SOP)"
+    ],
+    "recommendedPesticides": [
+      "Mancozeb",
+      "Metalaxyl",
+      "Imidacloprid",
+      "Chlorpyrifos"
+    ]
+  },
+  "Onion": {
+    "pestManagement": "IPM for thrips, purple blotch, and stemphylium blight",
+    "recommendedIrrigation": "Light frequent irrigations - 15-20 irrigations (shallow roots)",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)",
+      "Sulphur"
+    ],
+    "recommendedPesticides": [
+      "Mancozeb",
+      "Carbendazim",
+      "Fipronil",
+      "Thiamethoxam"
+    ]
+  },
+  "Cumin": {
+    "pestManagement": "IPM for aphids, powdery mildew, and blight",
+    "recommendedIrrigation": "4-5 light irrigations",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Dimethoate",
+      "Sulphur",
+      "Mancozeb"
+    ]
+  },
+  "Tobacco": {
+    "pestManagement": "IPM for caterpillars, aphids, and viral diseases",
+    "recommendedIrrigation": "6-8 irrigations at critical growth stages",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "SSP (0-16-0)",
+      "MOP (0-0-60)"
+    ],
+    "recommendedPesticides": [
+      "Imidacloprid",
+      "Chlorpyrifos",
+      "Mancozeb"
+    ]
+  },
+  "Mustard": {
+    "pestManagement": "IPM for aphids, sawfly, and white rust",
+    "recommendedIrrigation": "3-4 irrigations at critical stages",
+    "recommendedFertilizers": [
+      "Urea (46-0-0)",
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Sulphur"
+    ],
+    "recommendedPesticides": [
+      "Dimethoate",
+      "Oxydemeton-methyl",
+      "Mancozeb"
+    ]
+  },
+  "Rajma (Kidney Bean)": {
+    "pestManagement": "IPM for pod borer, aphids, and anthracnose",
+    "recommendedIrrigation": "4-5 irrigations at Flowering and Pod filling",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole",
+      "Imidacloprid",
+      "Mancozeb"
+    ]
+  },
+  "Chickpea": {
+    "pestManagement": "IPM for pod borer, wilt, and blight",
+    "recommendedIrrigation": "1-2 protective irrigations (rainfed crop)",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole",
+      "Carbendazim",
+      "Trichoderma"
+    ]
+  },
+  "Soybean": {
+    "pestManagement": "IPM for stem fly, leaf miner, and rust",
+    "recommendedIrrigation": "2-3 irrigations at critical stages (mostly rainfed)",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Rhizobium culture",
+      "Sulphur"
+    ],
+    "recommendedPesticides": [
+      "Chlorantraniliprole",
+      "Triazophos",
+      "Hexaconazole"
+    ]
+  }
+}

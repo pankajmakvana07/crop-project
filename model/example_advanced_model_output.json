@@ -1,0 +1,23 @@
+{
+  "taluka": "Jafrabad",
+  "crop": "Groundnut",
+  "suitability_prob": 0.31,
+  "suitability": "Yes",
+  "predicted_yield_quintal_per_ha": 15.0,
+  "treatment": {
+    "pestManagement": "IPM for leaf miner, thrips, and tikka disease",
+    "recommendedIrrigation": "4-6 irrigations - Flowering and Pod development stages",
+    "recommendedFertilizers": [
+      "DAP (18-46-0)",
+      "MOP (0-0-60)",
+      "Gypsum",
+      "Sulphur"
+    ],
+    "recommendedPesticides": [
+      "Chlorpyrifos",
+      "Mancozeb",
+      "Tebuconazole"
+    ]
+  },
+  "rule_reason": "GOOD: Sandy Loam soil with pH 7.2 is suitable for Groundnut"
+}

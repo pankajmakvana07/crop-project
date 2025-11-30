@@ -1,0 +1,115 @@
+[
+  {
+    "taluka": "Gadhada",
+    "crop": "Rice",
+    "suitability_prob": 0.62,
+    "suitability": "Yes",
+    "predicted_yield_quintal_per_ha": 22.29,
+    "treatment": {
+      "pestManagement": "Integrated Pest Management (IPM) for stem borers and leaf folders",
+      "recommendedIrrigation": "Flooded irrigation, maintain 5cm water depth",
+      "recommendedFertilizers": [
+        "Urea (46-0-0)",
+        "DAP (18-46-0)",
+        "MOP (0-0-60)",
+        "Zinc Sulphate"
+      ],
+      "recommendedPesticides": [
+        "Chlorantraniliprole",
+        "Cartap Hydrochloride",
+        "Fipronil"
+      ]
+    },
+    "rule_reason": "IDEAL: Black Cotton soil with pH 6.4 is perfect for Rice"
+  },
+  {
+    "taluka": "Gadhada",
+    "crop": "Cotton",
+    "suitability_prob": 0.47,
+    "suitability": "Yes",
+    "predicted_yield_quintal_per_ha": 22.29,
+    "treatment": {
+      "pestManagement": "IPM for bollworms, whitefly, and pink bollworm",
+      "recommendedIrrigation": "Critical stages - Flowering and Boll development (8-10 irrigations)",
+      "recommendedFertilizers": [
+        "Urea (46-0-0)",
+        "SSP (0-16-0)",
+        "MOP (0-0-60)",
+        "Boron"
+      ],
+      "recommendedPesticides": [
+        "Chlorantraniliprole (Coragen)",
+        "Acephate",
+        "Profenofos",
+        "Monocrotophos"
+      ]
+    },
+    "rule_reason": "GOOD: Black Cotton soil with pH 6.4 is suitable for Cotton"
+  },
+  {
+    "taluka": "Gadhada",
+    "crop": "Wheat",
+    "suitability_prob": 0.62,
+    "suitability": "Yes",
+    "predicted_yield_quintal_per_ha": 22.29,
+    "treatment": {
+      "pestManagement": "IPM for aphids and rust diseases",
+      "recommendedIrrigation": "Critical stages - CRI, Tillering, Flowering, Grain filling (4-5 irrigations)",
+      "recommendedFertilizers": [
+        "Urea (46-0-0)",
+        "DAP (18-46-0)",
+        "MOP (0-0-60)"
+      ],
+      "recommendedPesticides": [
+        "Imidacloprid",
+        "Mancozeb",
+        "Propiconazole"
+      ]
+    },
+    "rule_reason": "IDEAL: Black Cotton soil with pH 6.4 is perfect for Wheat"
+  },
+  {
+    "taluka": "Gadhada",
+    "crop": "Bajra",
+    "suitability_prob": 0.42,
+    "suitability": "Yes",
+    "predicted_yield_quintal_per_ha": 22.29,
+    "treatment": {
+      "pestManagement": "IPM for shoot fly and downy mildew",
+      "recommendedIrrigation": "2-3 irrigations at critical stages (low water requirement)",
+      "recommendedFertilizers": [
+        "Urea (46-0-0)",
+        "DAP (18-46-0)",
+        "MOP (0-0-60)"
+      ],
+      "recommendedPesticides": [
+        "Metalaxyl",
+        "Carbendazim",
+        "Chlorpyrifos"
+      ]
+    },
+    "rule_reason": "ACCEPTABLE: pH 6.4 can support Bajra (drought-resistant crop)"
+  },
+  {
+    "taluka": "Gadhada",
+    "crop": "Chickpea",
+    "suitability_prob": 0.37,
+    "suitability": "Yes",
+    "predicted_yield_quintal_per_ha": 20.0,
+    "treatment": {
+      "pestManagement": "IPM for pod borer, wilt, and blight",
+      "recommendedIrrigation": "1-2 protective irrigations (rainfed crop)",
+      "recommendedFertilizers": [
+        "DAP (18-46-0)",
+        "MOP (0-0-60)",
+        "Rhizobium culture"
+      ],
+      "recommendedPesticides": [
+        "Chlorantraniliprole",
+        "Carbendazim",
+        "Trichoderma"
+      ]
+    },
+    "rule_reason": "MODERATE: pH 6.4 is generally suitable for most crops"
+  }
+]
